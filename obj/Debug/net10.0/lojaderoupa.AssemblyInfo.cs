@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lojaderoupa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42b93002108f7ff596b98b617eda34e1655107a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("lojaderoupa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lojaderoupa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
